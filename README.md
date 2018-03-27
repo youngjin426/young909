@@ -1,5 +1,5 @@
 hi
 
-my name is youngjin
+my name is choi youngjin
 
 nice to meet you
